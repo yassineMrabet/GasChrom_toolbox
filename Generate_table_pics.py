@@ -3,7 +3,8 @@
 
 import glob, os
 from os.path import splitext
-os.chdir("/home/yassine/Desktop/Scripts/")
+# change 'path_to_dir' by your own location of csv files
+os.chdir("path_to_dir")
 import pandas as pd
 
 
@@ -33,7 +34,7 @@ def print_mzlist(fx):
 	peaks_list = peaks_list[:-2] + '.'
 	return (peaks_list)
 
-# Open the text file to store results
+# Open the text file to record the results
 text_file = open("Results.txt", "w")
 
 # Reading csv files and printing the results  
