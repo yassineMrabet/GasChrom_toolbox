@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
+Description:
  This script generate a table of ms peaks with their
  relative abundance from csv files
  i.e. Toluene MS1[92]: 94 (5), 93 (72), ..
