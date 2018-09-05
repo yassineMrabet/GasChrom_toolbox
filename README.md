@@ -1,9 +1,9 @@
 # MassSpectraPub
-Presenting the results of mass spectrometry in publication-quality documents using python
+Presenting the results of mass spectrometry in publication-quality documents using python.
 
 ## Structure
 
-* Mainly, modifiable scripts with examples.
+* Mainly, modifiable scripts with examples (credit: [webbook.nist.gov](https://webbook.nist.gov/ "webbook.nist.gov") )
 
 
 ## Goals 
