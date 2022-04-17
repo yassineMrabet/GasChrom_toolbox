@@ -1,5 +1,6 @@
-# MassSpectraPub
-Presenting the results of mass spectrometry in publication-quality documents using python.
+# Gas chromatography toolbox
+
+Tools for processing and indentification of Gas Chromatography (GC) results including the genration of publication-quality documents using python.
 
 ## Structure
 
@@ -18,3 +19,4 @@ Use <code>pip</code> to install:
 
 * [pandas](https://pandas.pydata.org/ "pandas")
 * [matplotlib](https://matplotlib.org/ "matplotlib")
+* urllib : URL handling modules
